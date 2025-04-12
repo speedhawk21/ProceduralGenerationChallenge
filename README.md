@@ -6,9 +6,9 @@ Join this 10-day journey creating procedural generation features in Unity 6. Eac
 
 Build one procedural feature daily. By Day 10, fuse them together to form a cohesive mini-world, highlighting how procedural generation brings depth and replayability to game development.
 
-## Features
+## Challenge
 
-- **Day 1: Infinite Noise Pattern** – Scrollable 2D Perlin noise texture.
+- [Day 1: Infinite Noise Pattern](Assets/Day1_NoisePattern) - Scrolling 2D Perlin noise texture.
 - **Day 2: Random Tree Scatter** – Noise-driven tree placement.
 - **Day 3: Wavy Terrain** – Perlin noise-based terrain deformation.
 - **Day 4: Crystal Growth** – Iterative crystal formations with procedural logic.
